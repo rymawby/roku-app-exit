@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="MainScene" extends="OverhangPanelSetScene" >
+    <interface>
+        <field id="exitApp" type="boolean" value="false" />
+    </interface>
+
+    <children>
+
+    </children>
+    <script type="text/brightscript" uri="pkg://components/MainScene.brs" />
+</component>
